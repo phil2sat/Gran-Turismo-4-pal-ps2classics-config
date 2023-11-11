@@ -5,6 +5,7 @@
 - Abstürze beim laden der Lizenzrennen. 
 
 Hier nun meine finale konfiguration in welcher GT4 Progressiv auf der PAL version läuft. (sauber und spielbar)
+
 BTW hab auch die US und J versionen getestet, PAL sieht so bei weitem besser aus.
 
 Bitte ps2classics GUI ab Version 2.2.3 nutzen, da sonst Probleme mit dem DVD9 Format auftreten können
