@@ -1,0 +1,1 @@
+# Gran-Turismo-4-pal-ps2classics-config
